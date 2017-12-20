@@ -6,7 +6,7 @@ This assignment is an extension of [hw05](https://github.com/cooper-ece160/ece16
   * A derived `MastersStudent` class that inherits from `Student` and adds an additional graduation year and a separate vector for post-undergrad grades.
   * A `StudentDatabase` class that contains a map for storing and looking up `Student` objects.
 
-Given the provided `Student.h`, `MastersStudent.h`, `StudentDatabase.h` and `main.cpp`, fill in the empty `.cpp` files for each of the three provided headers that implements the methods declared in each header. You may use your exact `Student.cpp` from [hw05](https://github.com/cooper-ece160/ece160-hw05) if you wish. 
+Given the provided `Student.h`, `MastersStudent.h`, `StudentDatabase.h` and `main.cpp`, fill in the empty `.cpp` files for each of the three provided headers that implements the methods declared in each header. You may use your exact `Student.cpp` from [hw05](https://github.com/cooper-ece160/ece160-hw05) if you wish, with the addition of one extra method (see `Student.h`). 
 
 
 Your project MUST build with the provided `Makefile`, though you may modify the `Makefile` to use
