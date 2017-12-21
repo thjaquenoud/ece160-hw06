@@ -4,10 +4,11 @@
 #include <string>
 #include <vector>
 
+
 enum class Major {EE, ME, CE, CHE, BSE, ART, ARCH};
 
 class Student {
- protected:
+protected:
   std::string _first_name;
   std::string _last_name;
   int _grad_year;
